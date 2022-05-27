@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_NmzNMNzuEey9AJKt5Qrjpw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_NmzNMdzuEey9AJKt5Qrjpw" comment="" name="postgres_connection_Port" prompt="postgres_connection_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_NmzNMtzuEey9AJKt5Qrjpw" comment="" name="postgres_connection_Database" prompt="postgres_connection_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="major_assignment_week_3"/>
+  <contextParameter xmi:id="_NmzNM9zuEey9AJKt5Qrjpw" comment="" name="postgres_connection_AdditionalParams" prompt="postgres_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_NmzNNNzuEey9AJKt5Qrjpw" comment="" name="postgres_connection_Server" prompt="postgres_connection_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_NmzNNdzuEey9AJKt5Qrjpw" comment="" name="postgres_connection_Login" prompt="postgres_connection_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="postgres"/>
+  <contextParameter xmi:id="_NmzNNtzuEey9AJKt5Qrjpw" comment="" name="postgres_connection_Schema" prompt="postgres_connection_Schema?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_NmzNN9zuEey9AJKt5Qrjpw" comment="" name="postgres_connection_Password" prompt="postgres_connection_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:sZS1qQGkzjj30a1S2SdXBL7WgxgWhTfFixPbsZeKWMg="/>
+</talendfile:ContextType>

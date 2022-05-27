@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_h_wGEN1sEeyd8sUPjQnphg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_h_wGEd1sEeyd8sUPjQnphg" comment="" name="sales1_FieldSeparator" prompt="sales1_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;"/>
+  <contextParameter xmi:id="_h_wGEt1sEeyd8sUPjQnphg" comment="" name="sales1_RowSeparator" prompt="sales1_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;"/>
+  <contextParameter xmi:id="_h_wGE91sEeyd8sUPjQnphg" comment="" name="sales1_File" prompt="sales1_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/sarthasingh/Downloads/Sales data (Clean).csv"/>
+  <contextParameter xmi:id="_h_wGFN1sEeyd8sUPjQnphg" comment="" name="sales1_Encoding" prompt="sales1_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_h_wGFd1sEeyd8sUPjQnphg" comment="" name="sales1_Header" prompt="sales1_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+</talendfile:ContextType>
